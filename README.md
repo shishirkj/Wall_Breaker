@@ -1,4 +1,4 @@
-# Walll_Breaker
+# Wall_Breaker
 ## Game made in Vanilla JS(Canva html5)
 
 ## Howto play?
